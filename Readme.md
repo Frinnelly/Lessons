@@ -1,3 +1,3 @@
 Dobavili tekst cherez brauser
 dobavim likalno text
-razreshaem konflict
+razreshaem konflict в браузере
