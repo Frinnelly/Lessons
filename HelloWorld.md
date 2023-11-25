@@ -1,2 +1,12 @@
 ## Hello
 Teftelka the best
+Вы создали репозиторий на GitHub. Создайте и получите ссылку. На вашем локальном компьютере создайте папку с будущим локальним репозиторием. Обязательно в консоли перейдите в вашу папку. ( к примеру CD D:\Test)
+На локальном
+git init
+git add ВашФайл.md
+git commit -m "first commit"
+git branch -M main
+Для Удаленного
+git remote add origin https://github.com/Ссылка_вашего_репозитория.git
+Должно появиться окно подтверждения для связи с GitHub. Подтверждаем.
+git push -u origin main
